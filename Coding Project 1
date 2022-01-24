@@ -1,0 +1,3 @@
+0 - 25 for a - z (use uppercase and lower case)
+byte value letter ('d' - 'a')
+value = (byte or int) (letter - 'a')
